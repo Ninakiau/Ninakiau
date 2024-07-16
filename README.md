@@ -1,6 +1,12 @@
-## Hi there, my name is Claudia Ortiz 👋
+# ¡Hola! Soy Claudia
 
-## My Skills
+Soy una desarrolladora fullstack enfocada en crear soluciones eficientes y escalables. Tengo experiencia en el desarrollo de aplicaciones backend con Java y Spring Boot, y en la creación de interfaces dinámicas y modulares utilizando React y Vue.js.
+
+## Lo que me destaca
+
+A través del enfoque colaborativo, he aprendido y aplicado mis conocimientos en tecnologías clave como Java, MySQL, Spring (MVC, REST), JUnit, React y Vue.js en diversos proyectos. Me gusta entregar código de alta calidad, mantener buenas prácticas de desarrollo y siempre estar actualizada con las últimas tendencias y tecnologías.
+
+## Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -12,6 +18,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+---
+
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/claudia-dev) para discutir proyectos, colaboraciones o simplemente para conectar.
+
 <!--
 **Ninakiau/Ninakiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
