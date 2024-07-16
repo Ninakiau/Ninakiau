@@ -1,10 +1,10 @@
 # ¡Hola! Soy Claudia
 
-Soy una desarrolladora fullstack enfocada en crear soluciones eficientes y escalables. Tengo experiencia en el desarrollo de aplicaciones backend con Java y Spring Boot, y en la creación de interfaces dinámicas y modulares utilizando React y Vue.js.
+Soy una desarrolladora fullstack enfocada en crear soluciones optimizadas y de alta calidad. Tengo experiencia en el desarrollo de aplicaciones backend con Java y Spring Boot, y en la creación de interfaces dinámicas y modulares utilizando React y Vue.js.
 
 ## Lo que me destaca
 
-A través del enfoque colaborativo, he aprendido y aplicado mis conocimientos en tecnologías clave como Java, MySQL, Spring (MVC, REST), JUnit, React y Vue.js en diversos proyectos. Me gusta entregar código de alta calidad, mantener buenas prácticas de desarrollo y siempre estar actualizada con las últimas tendencias y tecnologías.
+A través del enfoque colaborativo, he aprendido y aplicado mis conocimientos en tecnologías clave como Java, Spring, Javascript, React y Vue.js en diversos proyectos. Me gusta entregar código de alta calidad, mantener buenas prácticas de desarrollo y siempre estar actualizada con las últimas tendencias y tecnologías.
 
 ## Skills
 
