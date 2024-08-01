@@ -21,7 +21,7 @@ A través del enfoque colaborativo, he aprendido y aplicado mis conocimientos en
 
 ---
 
-Puedes contactarme a través de [![LinkedIn](https://img.shields.io/badge/LinkedIn-Claudia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/claudia-dev) para discutir proyectos, colaboraciones o simplemente para conectar.
+Puedes contactarme a través de mi linkedIn para discutir proyectos, colaboraciones o simplemente para conectar:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Claudia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/claudia-dev)
 
 <!--
 **Ninakiau/Ninakiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
